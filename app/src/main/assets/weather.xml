@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<records>
+    <weather>
+        <city_name>Bangalore</city_name>
+        <latitude>12.295</latitude>
+        <longitude>76.987</longitude>
+        <temperature>25</temperature>
+        <humidity>50</humidity>
+    </weather>
+    <weather>
+        <city_name>Chennai</city_name>
+        <latitude>13.0827</latitude>
+        <longitude>80.2707</longitude>
+        <temperature>28</temperature>
+        <humidity>60</humidity>
+    </weather>
+    <weather>
+        <city_name>Hyderabad</city_name>
+        <latitude>17.3850</latitude>
+        <longitude>78.4867</longitude>
+        <temperature>30</temperature>
+        <humidity>55</humidity>
+    </weather>
+</records>
